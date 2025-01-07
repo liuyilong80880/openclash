@@ -13,6 +13,5 @@ DOMAIN-KEYWORD,hnbblive
 DOMAIN-KEYWORD,bestlive
 DOMAIN-KEYWORD,wasulive
 DOMAIN-KEYWORD,fifalive
-DOMAIN-KEYWORD,asus
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
