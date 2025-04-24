@@ -6,8 +6,8 @@ DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,qichiyu
 # IP段匹配
 IP-CIDR,107.174.231.3/32,no-resolve
