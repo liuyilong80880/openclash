@@ -10,4 +10,4 @@ DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 # IP段匹配
-IP-CIDR,107.174.231.3/32,no-resolve
+IP-CIDR,100.174.22.32/32,no-resolve
