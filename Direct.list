@@ -9,5 +9,6 @@ DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,m16tv.cfd
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,samsung
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
