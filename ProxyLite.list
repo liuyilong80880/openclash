@@ -1,12 +1,15 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,epg.112114.xyz
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+DOMAIN-SUFFIX,ntdofifreepc.akamaized.net
+DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 # IP段匹配
