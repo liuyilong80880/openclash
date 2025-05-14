@@ -5,13 +5,17 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,epg.112114.xyz
 DOMAIN-SUFFIX,api2.4gtv.tv
 DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv
 DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,ntdofifreepc.akamaized.net
 DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
+DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 # IP段匹配
