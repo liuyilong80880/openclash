@@ -8,8 +8,18 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,bptv.freetv.top
+DOMAIN-SUFFIX,iptv.cc
+DOMAIN-SUFFIX,v1.mk
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,kejilion.pro
+DOMAIN-SUFFIX,zmk.pw
+DOMAIN-SUFFIX,8800467.xyz
+DOMAIN-SUFFIX,yinfans.net
+DOMAIN-SUFFIX,8bt0.com
+DOMAIN-SUFFIX,nullbr.online
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,samsung
+DOMAIN-KEYWORD,1lou
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
